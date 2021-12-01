@@ -1,0 +1,25 @@
+{
+  "name": "advent_of_code_2021",
+  "version": "1.0.0",
+  "description": "This is an advent of code solution repo",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dlemm/advent_of_code_2021.git"
+  },
+  "keywords": [
+    "advent",
+    "of",
+    "code"
+  ],
+  "author": "Dennis Lemm",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dlemm/advent_of_code_2021/issues"
+  },
+  "homepage": "https://github.com/dlemm/advent_of_code_2021#readme"
+}

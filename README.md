@@ -6,3 +6,4 @@ This repository is for the solutions for the [advent of code challenge 2021](htt
 
 Taske 1:
 Question: How many measurements are larger than the previous measurement?
+Answer: **1529** times the measurement increased.

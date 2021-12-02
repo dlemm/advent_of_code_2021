@@ -24,10 +24,20 @@ Question: Consider sums of a three-measurement sliding window. How many sums are
 
 ## Day 02 - Dive  
 Task page: https://adventofcode.com/2021/day/2 
+
+Task 1:
 Question: "Calculate the horizontal position and depth you would have after following the planned course. What do you get if you multiply your final horizontal position by your final depth?"
 
 
 <details>
   <summary>Solution</summary>
   Answer: `1728414`
+</details>
+
+Task 2: 
+Question: "What do you get if you multiply your final horizontal position by your final depth?" (with respecting aim)
+
+<details>
+  <summary>Solution</summary>
+  Answer: `1765720035`
 </details>

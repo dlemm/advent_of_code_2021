@@ -3,7 +3,6 @@
   "version": "1.0.0",
   "description": "This is an advent of code solution repo",
   "main": "index.js",
-  "type": "module",
   "scripts": {
     "test": "test"
   },

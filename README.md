@@ -41,3 +41,11 @@ Question: "What do you get if you multiply your final horizontal position by you
   <summary>Solution</summary>
   Answer: `1765720035`
 </details>
+
+Task 3:
+Task: Get the power consumption.
+
+<details>
+  <summary>Solution</summary>
+  Answer: `1765720035`
+</details>
